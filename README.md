@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yuming Su
+## 🎓 Education
+- **B.S. in Chemistry**
+  - **Institution:** Shanxi University, College of Chemistry & Chemical Engineering
+  - **Year:** 2014 - 2018
+- **Ph.D. in Chemistry**
+  - **Institution:** Xiamen University, College of Chemistry and Chemical Engineering
+  - **Year:** 2018 - 2024
 
-<!--
-**sym823808458/sym823808458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Work Experience
+- **Position:** Assistant Researcher
+  - **Location:** AI4EC Lab, Tan Kah Kee Innovation Laboratory (IKKEM)
+  - **Year:** 2024 - now
 
-Here are some ideas to get you started:
+## 🚀 Research
+I am deeply engaged in the following research areas:
+- **Structure-Activity Relationships (SAR)**
+- **Two-Photon Absorption (TPA)**
+- **Machine Learning Applications in Chemistry**
+- **Theoretical Calculations**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on
+- Projects that integrate AI into material science and chemistry.
+- Research initiatives that aim to develop sustainable technologies.
